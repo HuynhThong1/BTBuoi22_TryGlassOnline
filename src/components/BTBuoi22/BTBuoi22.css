@@ -1,0 +1,68 @@
+.header{
+    background-color: #0000008c;
+    height: 100px;
+    text-align: center;
+}
+
+.title{
+    color: #fff;
+    padding-top: 30px;
+    text-transform: uppercase;
+}
+
+.bg__img{
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    width: 100%;
+    height: 720px;
+}
+
+
+.model__glass{
+    position: relative;
+    height: 329.06px;
+    width: 270px;
+    background-position: center;
+    margin-left: 135px;
+}
+
+.glass__on__model{
+    position: absolute;
+    top: 25.9%;
+    right: 20.6%;
+    background: 0 0 transparent;
+    width: 155px;
+}
+
+
+.glass__info{
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+    width: 100%;
+    height: 115px;
+    word-break: break-all;
+    background-color: #ffb36698;
+}
+
+
+.glass{
+    height: 260px;
+    background-color: #99ccff;
+}
+
+
+.glass .row{
+    width: 83%;
+    margin: auto;
+}
+
+.glass .row .col-2{
+    cursor: pointer;
+}
+
+.g__img__height{
+    height: 80px;
+    margin-top: 30px;
+}
