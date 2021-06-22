@@ -102,7 +102,7 @@ export default class BTBuoi22 extends Component {
 
     renderGlass = () => {
         return this.arrGlasses.map((product, index) => {
-            return <div className="col-2" onClick={() => {
+            return <div className="col-2 w_glasses" onClick={() => {
                 this.handleChangeGlass(product.url, product.name, product.desc)
             }} key={index} >
                 <img className="w-100 g__img__height" src={product.url} alt="..." />

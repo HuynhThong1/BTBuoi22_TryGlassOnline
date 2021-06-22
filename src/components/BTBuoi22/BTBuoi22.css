@@ -46,23 +46,38 @@
     background-color: #ffb36698;
 }
 
+.glass__info h4{
+    color: blue;
+    font-size: 18px;
+}
+
+.glass__info p{
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+}
+
 
 .glass{
     height: 260px;
-    background-color: #99ccff;
+    background-color: #fff;
 }
 
 
 .glass .row{
-    width: 83%;
+    width: 80%;
     margin: auto;
 }
 
-.glass .row .col-2{
+.glass .row .w_glasses{
+    max-width: 14% !important;
+    margin-top: 40px;
+    margin-right: 20px;
+    border: 1px solid #000;
     cursor: pointer;
+    width: 80px !important;
 }
 
 .g__img__height{
     height: 80px;
-    margin-top: 30px;
 }
