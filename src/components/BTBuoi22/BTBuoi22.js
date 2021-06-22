@@ -121,7 +121,7 @@ export default class BTBuoi22 extends Component {
                 </div>
 
                 <div className="container">
-                    <div className="model mt-3">
+                    <div className="model mt-4">
                         <div className="row">
                             <div className="col-6">
                                 <div className="model__glass">
@@ -138,7 +138,7 @@ export default class BTBuoi22 extends Component {
                             </div>
                         </div>
                     </div>
-                    <div className="glass mt-2">
+                    <div className="glass mt-4">
                         <div className="row">
                             {this.renderGlass()}
                         </div>

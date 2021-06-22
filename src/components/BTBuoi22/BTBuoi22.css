@@ -59,7 +59,7 @@
 
 
 .glass{
-    height: 260px;
+    height: 220px;
     background-color: #fff;
 }
 
@@ -71,7 +71,7 @@
 
 .glass .row .w_glasses{
     max-width: 14% !important;
-    margin-top: 40px;
+    margin-top: 30px;
     margin-right: 20px;
     border: 1px solid #000;
     cursor: pointer;
@@ -79,5 +79,5 @@
 }
 
 .g__img__height{
-    height: 80px;
+    height: 65px;
 }
